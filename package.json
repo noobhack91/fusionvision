@@ -1,7 +1,7 @@
 {
   "name": "visva",
   "version": "0.1.0",
-  "homepage": "https://www.fusionvision.in",
+  "homepage": "www.fusionvision.in",
   "private": false,
   "dependencies": {
     "@react-spring/parallax": "^9.7.2",
