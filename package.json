@@ -1,7 +1,7 @@
 {
   "name": "visva",
   "version": "0.1.0",
-  "homepage": "https://noobhack91.github.io/fusionvision",
+  "homepage": "https://www.fusionvision.in",
   "private": false,
   "dependencies": {
     "@react-spring/parallax": "^9.7.2",
