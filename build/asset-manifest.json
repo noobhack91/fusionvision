@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fusionvision/static/css/main.dcff40b0.css",
-    "main.js": "/fusionvision/static/js/main.277b8982.js",
+    "main.js": "/fusionvision/static/js/main.89b95ea2.js",
     "static/js/787.4fc0d3ef.chunk.js": "/fusionvision/static/js/787.4fc0d3ef.chunk.js",
     "static/media/la-brands-400.svg": "/fusionvision/static/media/la-brands-400.928495fae14841a0d610.svg",
     "static/media/la-solid-900.svg": "/fusionvision/static/media/la-solid-900.a813034654b4ff0a0bac.svg",
@@ -89,11 +89,11 @@
     "static/media/flaticon.woff2?": "/fusionvision/static/media/flaticon.41b6df63a66d2b45b7eb.woff2",
     "index.html": "/fusionvision/index.html",
     "main.dcff40b0.css.map": "/fusionvision/static/css/main.dcff40b0.css.map",
-    "main.277b8982.js.map": "/fusionvision/static/js/main.277b8982.js.map",
+    "main.89b95ea2.js.map": "/fusionvision/static/js/main.89b95ea2.js.map",
     "787.4fc0d3ef.chunk.js.map": "/fusionvision/static/js/787.4fc0d3ef.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dcff40b0.css",
-    "static/js/main.277b8982.js"
+    "static/js/main.89b95ea2.js"
   ]
 }
